@@ -1,0 +1,12 @@
+streamlit
+langchain_groq
+langchain_google_genai
+langchain_core
+langchainhub
+langchain
+langchain_community
+python-dotenv
+langserve
+faiss-cpu
+google-cloud-aiplatform>=1.38
+groq
