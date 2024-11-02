@@ -1,0 +1,13 @@
+langchain
+langchain_core
+python-dotenv
+streamlit
+langchain_community
+faiss-cpu
+groq
+langchain-groq
+wikipedia
+arxiv
+langchainhub
+google-cloud-aiplatform>=1.38
+langchain_google_genai
